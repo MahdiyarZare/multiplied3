@@ -1,0 +1,7 @@
+C:\Users\Arioo\source\repos\First RPG\First RPG\obj\Debug\First RPG.csprojAssemblyReference.cache
+C:\Users\Arioo\source\repos\First RPG\First RPG\obj\Debug\First RPG.csproj.CoreCompileInputs.cache
+C:\Users\Arioo\source\repos\First RPG\First RPG\bin\Debug\First RPG.exe.config
+C:\Users\Arioo\source\repos\First RPG\First RPG\bin\Debug\First RPG.exe
+C:\Users\Arioo\source\repos\First RPG\First RPG\bin\Debug\First RPG.pdb
+C:\Users\Arioo\source\repos\First RPG\First RPG\obj\Debug\First RPG.exe
+C:\Users\Arioo\source\repos\First RPG\First RPG\obj\Debug\First RPG.pdb
